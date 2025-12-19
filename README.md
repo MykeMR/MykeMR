@@ -8,13 +8,11 @@ My main focus is bug bounty, web security, mobile pentesting, and cloud infrastr
 
 I've found over XX vulnerabilities across different programs, but privately... it's probably way more than that at this point.
 
----
 
-## Fun Facts:
+**Fun Facts:**
 
 - 🔐 I specialize in OWASP Top 10, API security, and race conditions
 - 📱 I reverse mobile apps with Frida in my free time
 - ☁️ AWS misconfigurations are my favorite findings
 - Hobbies: hardware hacking, CTFs, building security tools
 
----

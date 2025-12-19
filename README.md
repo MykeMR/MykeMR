@@ -8,7 +8,7 @@ My main focus is bug bounty, web security, mobile pentesting, and cloud infrastr
 
 I've found over XX vulnerabilities across different programs, but privately... it's probably way more than that at this point.
 
- 
+
 **Fun Facts:**
 
 - 🔐 I specialize in OWASP Top 10, API security, and race conditions

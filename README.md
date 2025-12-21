@@ -6,7 +6,7 @@ I hunt bugs for a living and break applications before the bad guys do.
 
 My main focus is bug bounty, web security, mobile pentesting, and cloud infrastructure audits. My favorite tools are Burp Suite, Python scripts, and a good cup of coffee ☕
 
-I've found over XX vulnerabilities across different programs, but privately... it's probably way more than that at this point.
+I have found vulnerabilities in different programs, but privately... there are probably many more at this point.
 
 
 **Fun Facts:**
